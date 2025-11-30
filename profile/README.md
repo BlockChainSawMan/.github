@@ -18,3 +18,30 @@
 | <img src="https://avatars.githubusercontent.com/kookguk" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/taewoojeong" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/shashamalone" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/kookguk" width="150px;" alt=""> | 
 | [국준호](https://github.com/kookguk) | [정태우](https://github.com/taewoojeong) | [김이정](https://github.com/shashamalone)| [권예인](https://github.com/shashamalone) | 
 
+## 🛠 App Support / 문의
+
+### 📌 앱 설명
+BlockList는 블록체인 지갑 주소의 위험도를 AI 기반으로 분석하는 서비스입니다.  
+GNN 기반 위험도 예측, Neo4j 거래 그래프 분석, LLM 기반 자연어 해석을 통해  
+지갑주소의 위험 점수와 근거를 사용자에게 제공합니다.
+
+---
+
+### 🐞 버그 신고 / 기능 제안
+앱 사용 중 오류가 발생하거나 기능 제안이 있으시면 아래 경로를 이용해주세요.
+
+- GitHub Issues: https://github.com/BlockChainSawMan/BlockList-iOS/issues
+
+---
+
+### ✉️ 문의 메일
+서비스 이용 관련 문의는 아래 이메일로 연락해주세요.
+
+- **blocklist.ai@gmail.com**
+
+---
+
+### 🔒 개인정보 및 보안
+- 본 앱은 사용자의 이름, 연락처, 위치 등 어떠한 개인정보도 수집하지 않습니다.
+- 사용자가 입력한 지갑 주소는 **분석 처리 목적에 한해 일시적으로만 사용**되며 저장되지 않습니다.
+- 데이터는 암호화된 통신을 통해 서버와 주고받으며, 제3자에게 제공되지 않습니다.
