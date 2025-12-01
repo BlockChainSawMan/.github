@@ -27,6 +27,7 @@ GNN 기반 위험도 예측, Neo4j 거래 그래프 분석, 랭체인 기반 자
 지갑주소의 위험 점수와 근거를 사용자에게 제공합니다.
 
 [AI Readme 보러가기 >](https://github.com/BlockChainSawMan/BlockList_AI)
+
 [iOS Readme 보러가기 >](https://github.com/BlockChainSawMan/BlockList-iOS)
 
 ---
