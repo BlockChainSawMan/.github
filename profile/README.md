@@ -16,7 +16,7 @@
 | [PM / AI] | [Backend / AI] |  [Frontend / iOS] | [Designer] |
 | :---: | :---: | :---: | :---: | 
 | <img src="https://avatars.githubusercontent.com/kookguk" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/shashamalone" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/taewoojeong" width="150px;" alt=""> | <img src="https://github.com/user-attachments/assets/0bb7ef43-8a56-4c84-8ca3-4417e1452d0c" width="150px;" alt=""> | 
-| [국준호](https://github.com/kookguk) | [김이정](https://github.com/shashamalone) | [정태우](https://github.com/taewoojeong) | [권예인] | 
+| [국준호](https://github.com/kookguk) | [김이정](https://github.com/shashamalone) | [정태우](https://github.com/taewoojeong) | 권예인 | 
 
 
 ## 🛠 App Support / 문의
