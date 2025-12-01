@@ -15,8 +15,7 @@
 ## 😎 팀원 소개
 | [PM / AI] | [Frontend / iOS] |  [Backend / AI] | [Designer] |
 | :---: | :---: | :---: | :---: | 
-| <img src="https://avatars.githubusercontent.com/kookguk" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/taewoojeong" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/shashamalone" width="150px;" alt=""> | <img src="https://github.com/user-attachments/assets/84c2df82-4163-48ef-85b4-916f368e75d9"
-     width="150px" height="150px" alt=""> | 
+| <img src="https://avatars.githubusercontent.com/kookguk" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/taewoojeong" width="150px;" alt=""> | <img src="https://avatars.githubusercontent.com/shashamalone" width="150px;" alt=""> | <img src="https://github.com/user-attachments/assets/84c2df82-4163-48ef-85b4-916f368e75d9" width="150px" height="150px" alt=""> | 
 | [국준호](https://github.com/kookguk) | [정태우](https://github.com/taewoojeong) | [김이정](https://github.com/shashamalone)| [권예인] | 
 
 ## 🛠 App Support / 문의
